@@ -1,0 +1,31 @@
+ompiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+
+# CMake build directory
+/build/
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Other IDEs
+.vscode/
+
