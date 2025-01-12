@@ -1,4 +1,9 @@
-ompiled object files
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Other common ignores for C++ projects
+# Compiled object files
 *.o
 *.obj
 
@@ -22,10 +27,5 @@ ompiled object files
 # CMake build directory
 /build/
 
-# IntelliJ IDEA specific files
-.idea/
-*.iml
-
 # Other IDEs
 .vscode/
-
