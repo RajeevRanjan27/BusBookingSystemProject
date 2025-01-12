@@ -2,9 +2,9 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![C++](https://img.shields.io/badge/language-C++-blue.svg)
-![GitHub stars](https://img.shields.io/github/stars/RajeevRanjan27/bus-booking-system)
-![GitHub forks](https://img.shields.io/github/forks/RajeevRanjan27/bus-booking-system)
-![GitHub issues](https://img.shields.io/github/issues/RajeevRanjan27/bus-booking-system)
+![GitHub stars](https://img.shields.io/github/stars/RajeevRanjan27/BusBookingSystemProject)
+![GitHub forks](https://img.shields.io/github/forks/RajeevRanjan27/BusBookingSystemProject)
+![GitHub issues](https://img.shields.io/github/issues/RajeevRanjan27/BusBookingSystemProject)
 
 A **console-based** bus booking application written in C++. It allows users to book and manage bus seats, display bus details, search routes, and more—all through a **simple, menu-driven** interface.
 
